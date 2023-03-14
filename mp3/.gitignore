@@ -1,0 +1,5 @@
+Icon?
+*.o
+*.vscode*
+.vscode*
+.DS*
